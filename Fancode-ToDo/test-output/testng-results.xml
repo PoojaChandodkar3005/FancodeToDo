@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T23:12:19 IST" name="Default suite" finished-at="2024-10-10T23:12:27 IST" duration-ms="7949">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T23:12:19 IST" name="Default test" finished-at="2024-10-10T23:12:27 IST" duration-ms="7949">
+      <class name="FancodeToDo.FancodeToDoTest">
+        <test-method signature="testUserTodoCompletion()[pri:0, instance:FancodeToDo.FancodeToDoTest@e15b7e8]" started-at="2024-10-10T23:12:20 IST" name="testUserTodoCompletion" finished-at="2024-10-10T23:12:27 IST" duration-ms="7891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserTodoCompletion -->
+      </class> <!-- FancodeToDo.FancodeToDoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
